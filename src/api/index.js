@@ -1,7 +1,7 @@
 /* 接口*/
 import request from '@/utils/request'
 /**
- * 测试
+ * 测试test
  */
 function test(data) {
   return request({
